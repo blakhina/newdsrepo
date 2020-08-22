@@ -1,2 +1,2 @@
 # newdsrepo
-## it a markdwown file in this repository
+## it is a markdwown file in this repository
